@@ -1,8 +1,3 @@
-  
-Here is the complete GitHub README for **AegisScore** — your multi-level work protection and asset monetization scoring framework.
-
----
-
 # AegisScore
 
 > Multi-Level Work Protection & Asset Monetization Scoring Framework
